@@ -16,6 +16,12 @@
         <mxCell id="XcMf1oYeTH3Jxg5Tz8HI-3" value="分类" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="80" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="XcMf1oYeTH3Jxg5Tz8HI-4" value="分类" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XcMf1oYeTH3Jxg5Tz8HI-5" value="分类" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
