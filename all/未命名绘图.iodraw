@@ -22,8 +22,8 @@
         <mxCell id="XcMf1oYeTH3Jxg5Tz8HI-5" value="学习资源" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="130" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XcMf1oYeTH3Jxg5Tz8HI-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="305" y="180" width="120" height="75" as="geometry" />
+        <mxCell id="XcMf1oYeTH3Jxg5Tz8HI-6" value="按照资源文件类别将其分为影视类、音声类、书籍类等类别，在此基础上按照拍摄风格、撰写手法更细致的进行分类，如泄露、电影、动漫等等（**特殊性分类**）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="305" y="180" width="120" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
