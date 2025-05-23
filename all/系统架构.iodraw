@@ -91,7 +91,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CKnE2J4zSA4csLpGsKDQ-54" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="CKnE2J4zSA4csLpGsKDQ-53">
+        <mxCell id="CKnE2J4zSA4csLpGsKDQ-54" value="输入问题" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="CKnE2J4zSA4csLpGsKDQ-53">
           <mxGeometry relative="1" as="geometry">
             <mxPoint y="-37" as="offset" />
           </mxGeometry>
