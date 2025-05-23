@@ -39,8 +39,8 @@
             <mxPoint x="200" y="1020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ci363aKwCQtE-iqVkVWW-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="1500" width="120" height="510" as="geometry" />
+        <mxCell id="Ci363aKwCQtE-iqVkVWW-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="1500" width="200" height="540" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
