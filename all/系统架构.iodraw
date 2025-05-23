@@ -87,9 +87,6 @@
             <mxPoint x="560" y="1680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ci363aKwCQtE-iqVkVWW-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ci363aKwCQtE-iqVkVWW-34" target="Ci363aKwCQtE-iqVkVWW-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Ci363aKwCQtE-iqVkVWW-34" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="1170" width="90" height="45" as="geometry" />
         </mxCell>
@@ -119,6 +116,12 @@
         </mxCell>
         <mxCell id="Ci363aKwCQtE-iqVkVWW-53" value="&lt;b style=&quot;font-size: 10px;&quot;&gt;电子学类、光学类、etc&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="690" y="1247.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ci363aKwCQtE-iqVkVWW-56" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="1250" as="sourcePoint" />
+            <mxPoint x="730" y="1200" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
