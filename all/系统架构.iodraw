@@ -219,8 +219,8 @@
         <mxCell id="Ci363aKwCQtE-iqVkVWW-100" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;案例库&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2380" y="1555" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ci363aKwCQtE-iqVkVWW-101" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2270" y="1540" width="50" height="115" as="geometry" />
+        <mxCell id="Ci363aKwCQtE-iqVkVWW-101" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2280" y="1540" width="50" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
