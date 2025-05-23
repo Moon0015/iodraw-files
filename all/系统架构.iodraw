@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1050" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -62,9 +62,6 @@
         <mxCell id="CKnE2J4zSA4csLpGsKDQ-88" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;size=0.5;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="480" y="1910" width="20" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="CKnE2J4zSA4csLpGsKDQ-89" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=-180;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="358.75" y="1457.58" width="13.99" height="284.84" as="geometry" />
-        </mxCell>
         <mxCell id="CKnE2J4zSA4csLpGsKDQ-90" value="&lt;b&gt;......&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="278.75" y="1700" width="60" height="30" as="geometry" />
         </mxCell>
@@ -72,7 +69,7 @@
           <mxGeometry x="388.75" y="1580" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ci363aKwCQtE-iqVkVWW-0" value="&lt;b style=&quot;font-size: 30px;&quot;&gt;系统架构与设计&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="600" width="240" height="30" as="geometry" />
+          <mxGeometry x="38.75" y="30" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
