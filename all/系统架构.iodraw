@@ -81,7 +81,7 @@
             <mxPoint x="150" y="1070" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CKnE2J4zSA4csLpGsKDQ-65" value="&lt;b&gt;目的&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="CKnE2J4zSA4csLpGsKDQ-65" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;目的&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="87.5" y="1055" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CKnE2J4zSA4csLpGsKDQ-66" value="&lt;b&gt;预期&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -104,7 +104,7 @@
         <mxCell id="CKnE2J4zSA4csLpGsKDQ-79" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="1280" width="76.25" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="CKnE2J4zSA4csLpGsKDQ-80" value="&lt;b style=&quot;font-size: 13px;&quot;&gt;问题分类&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="CKnE2J4zSA4csLpGsKDQ-80" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;问题分类&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="268.12" y="1240" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
