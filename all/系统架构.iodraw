@@ -70,6 +70,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="CKnE2J4zSA4csLpGsKDQ-56" value="&lt;b&gt;目的&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="1040" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
