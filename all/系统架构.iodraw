@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="750" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
+    <mxGraphModel dx="1909" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -159,9 +159,6 @@
         <mxCell id="Ci363aKwCQtE-iqVkVWW-68" value="&lt;b&gt;硬件类&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1000" y="2617.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ci363aKwCQtE-iqVkVWW-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ci363aKwCQtE-iqVkVWW-69" target="Ci363aKwCQtE-iqVkVWW-87">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Ci363aKwCQtE-iqVkVWW-69" value="&lt;b style=&quot;font-size: 10px;&quot;&gt;微积分、线性代数、概率论，etc&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1115" y="2547.5" width="60" height="30" as="geometry" />
         </mxCell>
@@ -224,9 +221,6 @@
             <mxPoint x="1075" y="2852.4300000000003" as="sourcePoint" />
             <mxPoint x="1105" y="2852.4300000000003" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Ci363aKwCQtE-iqVkVWW-87" value="&lt;b style=&quot;font-size: 10px;&quot;&gt;微积分、线性代数、概率论，etc&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1115" y="2437.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
