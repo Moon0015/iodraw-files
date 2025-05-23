@@ -34,7 +34,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CKnE2J4zSA4csLpGsKDQ-76" value="&lt;b style=&quot;font-size: 12px;&quot;&gt;问题提取&lt;/b&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=12;" parent="CKnE2J4zSA4csLpGsKDQ-75" connectable="0" vertex="1">
+        <mxCell id="CKnE2J4zSA4csLpGsKDQ-76" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;问题提取&lt;/span&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=15;fontStyle=1" parent="CKnE2J4zSA4csLpGsKDQ-75" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-2" y="-35" as="offset" />
           </mxGeometry>
