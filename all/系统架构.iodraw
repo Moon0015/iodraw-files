@@ -81,13 +81,13 @@
         <mxCell id="Ci363aKwCQtE-iqVkVWW-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ci363aKwCQtE-iqVkVWW-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="1560" as="sourcePoint" />
-            <mxPoint x="570" y="1510" as="targetPoint" />
+            <mxPoint x="550" y="1555" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ci363aKwCQtE-iqVkVWW-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Ci363aKwCQtE-iqVkVWW-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Ci363aKwCQtE-iqVkVWW-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="1620" as="sourcePoint" />
-            <mxPoint x="600" y="1570" as="targetPoint" />
+            <mxPoint x="560" y="1680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
