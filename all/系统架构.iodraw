@@ -71,13 +71,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CKnE2J4zSA4csLpGsKDQ-63" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="85" y="1050" width="75" height="40" as="geometry" />
+          <mxGeometry x="85" y="1050" width="65" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CKnE2J4zSA4csLpGsKDQ-64" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="1050" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CKnE2J4zSA4csLpGsKDQ-65" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="1055" width="60" height="30" as="geometry" />
+          <mxGeometry x="87.5" y="1055" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CKnE2J4zSA4csLpGsKDQ-66" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="285" y="1055" width="60" height="30" as="geometry" />
