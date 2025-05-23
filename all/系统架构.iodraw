@@ -76,6 +76,9 @@
         <mxCell id="CKnE2J4zSA4csLpGsKDQ-40" value="结果" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1040" y="1155" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="CKnE2J4zSA4csLpGsKDQ-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="1240" width="640" height="260" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
