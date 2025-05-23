@@ -117,13 +117,10 @@
         <mxCell id="Ci363aKwCQtE-iqVkVWW-53" value="&lt;b style=&quot;font-size: 10px;&quot;&gt;电子学类、光学类、etc&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="690" y="1247.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ci363aKwCQtE-iqVkVWW-56" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1.006;exitY=0.573;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Ci363aKwCQtE-iqVkVWW-57" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="650.0000000000001" y="1195.785" as="sourcePoint" />
-            <mxPoint x="684.46" y="1177.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="670" y="1190" />
-            </Array>
+            <mxPoint x="680" y="1210" as="sourcePoint" />
+            <mxPoint x="730" y="1160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
