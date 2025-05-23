@@ -181,13 +181,13 @@
           <mxGeometry x="965" y="2740" width="240" height="190" as="geometry" />
         </mxCell>
         <mxCell id="Ci363aKwCQtE-iqVkVWW-74" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="985" y="2760" width="90" height="120" as="geometry" />
+          <mxGeometry x="985" y="2760" width="90" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Ci363aKwCQtE-iqVkVWW-77" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1105" y="2760" width="80" height="45" as="geometry" />
+          <mxGeometry x="1105" y="2760" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Ci363aKwCQtE-iqVkVWW-80" value="&lt;b&gt;数学类&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1000" y="2767.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="1000" y="2797.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ci363aKwCQtE-iqVkVWW-82" value="&lt;b style=&quot;font-size: 10px;&quot;&gt;微积分、线性代数、概率论，etc&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1115" y="2767.5" width="60" height="30" as="geometry" />
