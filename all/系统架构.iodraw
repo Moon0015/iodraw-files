@@ -294,13 +294,13 @@
         <mxCell id="Ci363aKwCQtE-iqVkVWW-132" value="参考" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1480" y="1972.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ci363aKwCQtE-iqVkVWW-138" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Ci363aKwCQtE-iqVkVWW-138" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.003;entryY=0.528;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Ci363aKwCQtE-iqVkVWW-133">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="850" y="2050" as="sourcePoint" />
             <mxPoint x="950" y="2050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ci363aKwCQtE-iqVkVWW-139" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="Ci363aKwCQtE-iqVkVWW-138">
+        <mxCell id="Ci363aKwCQtE-iqVkVWW-139" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=15;" connectable="0" vertex="1" parent="Ci363aKwCQtE-iqVkVWW-138">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
