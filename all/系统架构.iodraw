@@ -117,7 +117,7 @@
         <mxCell id="Ci363aKwCQtE-iqVkVWW-53" value="&lt;b style=&quot;font-size: 10px;&quot;&gt;电子学类、光学类、etc&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="690" y="1247.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ci363aKwCQtE-iqVkVWW-57" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Ci363aKwCQtE-iqVkVWW-57" value="" style="endArrow=classic;html=1;rounded=0;startArrow=diamond;startFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="655" y="1142.5" as="sourcePoint" />
             <mxPoint x="690" y="1140" as="targetPoint" />
