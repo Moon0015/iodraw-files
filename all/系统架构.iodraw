@@ -70,21 +70,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="CKnE2J4zSA4csLpGsKDQ-56" value="&lt;b&gt;目的&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="1095" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="CKnE2J4zSA4csLpGsKDQ-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CKnE2J4zSA4csLpGsKDQ-57" target="CKnE2J4zSA4csLpGsKDQ-61">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CKnE2J4zSA4csLpGsKDQ-57" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="1090" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="CKnE2J4zSA4csLpGsKDQ-60" value="&lt;b&gt;目的&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="1150" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="CKnE2J4zSA4csLpGsKDQ-61" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="1090" width="80" height="40" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
