@@ -178,19 +178,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ci363aKwCQtE-iqVkVWW-73" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="965" y="2740" width="240" height="150" as="geometry" />
+          <mxGeometry x="950" y="2730" width="240" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Ci363aKwCQtE-iqVkVWW-74" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="985" y="2760" width="90" height="110" as="geometry" />
+          <mxGeometry x="970" y="2750" width="90" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Ci363aKwCQtE-iqVkVWW-77" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1105" y="2765" width="80" height="100" as="geometry" />
+          <mxGeometry x="1090" y="2755" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Ci363aKwCQtE-iqVkVWW-80" value="&lt;b&gt;综合类&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1000" y="2800" width="60" height="30" as="geometry" />
+          <mxGeometry x="985" y="2790" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ci363aKwCQtE-iqVkVWW-82" value="&lt;b&gt;多个学科 / 类别的东西混合在一起，首先将其进行拆解，然后再进行分类&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1115" y="2800" width="60" height="30" as="geometry" />
+          <mxGeometry x="1100" y="2790" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ci363aKwCQtE-iqVkVWW-84" value="" style="endArrow=classic;html=1;rounded=0;startArrow=none;startFill=0;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
