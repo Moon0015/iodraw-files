@@ -92,7 +92,7 @@
           <mxGeometry x="40" y="940" width="80" height="25" as="geometry" />
         </mxCell>
         <mxCell id="CKnE2J4zSA4csLpGsKDQ-23" value="结果" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="940" width="60" height="30" as="geometry" />
+          <mxGeometry x="710" y="937.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CKnE2J4zSA4csLpGsKDQ-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -107,7 +107,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CKnE2J4zSA4csLpGsKDQ-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="140" y="990" width="370" height="180" as="geometry" />
+          <mxGeometry x="140" y="990" width="480" height="180" as="geometry" />
         </mxCell>
         <mxCell id="CKnE2J4zSA4csLpGsKDQ-27" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;size=0.5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="315" y="950" width="20" height="330" as="geometry" />
