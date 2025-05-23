@@ -210,7 +210,7 @@
         <mxCell id="Ci363aKwCQtE-iqVkVWW-97" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2540" y="1767.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ci363aKwCQtE-iqVkVWW-98" value="知识库" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Ci363aKwCQtE-iqVkVWW-98" value="图书馆" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2730" y="1665" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ci363aKwCQtE-iqVkVWW-99" value="网络资源搜索" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -222,14 +222,14 @@
         <mxCell id="Ci363aKwCQtE-iqVkVWW-103" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2540" y="1595" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ci363aKwCQtE-iqVkVWW-105" value="个人知识管理" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Ci363aKwCQtE-iqVkVWW-105" value="我的知识体系" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2550" y="1610" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ci363aKwCQtE-iqVkVWW-106" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2670" y="1540" width="20" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="Ci363aKwCQtE-iqVkVWW-107" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2270" y="1570" width="120" height="60" as="geometry" />
+        <mxCell id="Ci363aKwCQtE-iqVkVWW-107" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1910" y="1610" width="190" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
